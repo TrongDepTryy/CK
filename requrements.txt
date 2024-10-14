@@ -1,0 +1,4 @@
+qrcode
+Django
+opencv-python
+pillow
